@@ -27,8 +27,6 @@ This tool helps AI-first startups and tech teams analyze and improve their AI go
 | Output Format  | Markdown / JSON / Notion API    |
 | Hosting (opt)  | Streamlit / Azure Web App       |
 
----
 
-## 📁 Project Structure
 
 
