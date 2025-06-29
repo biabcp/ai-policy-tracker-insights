@@ -31,3 +31,19 @@ This tool helps AI-first startups and tech teams analyze and improve their AI go
 
 ## 📁 Project Structure
 
+ai-policy-tracker-insights/
+│
+├── prompts/ # Prompt engineering templates
+│ └── rmf_alignment_prompt.txt
+│
+├── scripts/
+│ └── analyze_policies.py # Main logic: GPT calls + scoring
+│ └── notion_ingest.py # Pulls data from Notion
+│
+├── results/
+│ └── example_report.md # Sample output
+│
+├── requirements.txt
+├── LICENSE
+└── README.md
+
